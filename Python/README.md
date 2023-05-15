@@ -4,7 +4,6 @@
  <img width="273px" src="https://github.com/blackcrowX/blackcrowX.github.io/blob/main/images/icons/python.png?raw=true"/>
 </p>
 
-## Python
 These are projects using Python to showcase skills gained while learning data analysis.
 
 ### Arithmetic Arranger
