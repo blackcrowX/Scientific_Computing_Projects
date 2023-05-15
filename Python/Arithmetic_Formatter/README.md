@@ -1,5 +1,7 @@
 <h1 align="center">Arithmetic Formatter</h1>
 
+**Code:** https://replit.com/@blackcrowX/boilerplate-arithmetic-formatter
+
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 ```
   235
@@ -45,5 +47,3 @@ Output:
 ----    ------    ------    -----
   40     -3800     19998      474
 ```
-
-**Code:** https://replit.com/@blackcrowX/boilerplate-arithmetic-formatter
